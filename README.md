@@ -47,7 +47,7 @@ One command, and the system:
 
 The working code matters less than how you got it. Anyone can get a script out of Claude Code now. I am looking at the parts that do not come free: how you kept the system honest across a corpus it cannot hold in memory, how you decided which of its own conclusions to trust, and how you made it hold a quality bar it has no way to judge for itself.
 
-I have built this system before. I know where it gets hard and I know what my version produced. I will tell you where yours beat mine.
+Then we spend 45 minutes on a call. I will ask you why your system produced what it produced, and why it did not produce other things. Answering those from your own architecture counts for more than the answers themselves, so build something you can still explain a week later.
 
 Timebox: one weekend.
 

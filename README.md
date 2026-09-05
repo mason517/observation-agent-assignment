@@ -44,10 +44,6 @@ One command, and the system:
 - In those notes, tell me where your system is most likely to be wrong, and what it took on faith because you had no way to check it.
 - The output of one real run: the report, the dashboard, the run logs, and the drafted artifacts.
 
-## How I read it
-
-The working code matters less than how you got it. Anyone can get a script out of Claude Code now. I am looking at the parts that do not come free: how you kept the system honest across a corpus it cannot hold in memory, how you decided which of its own conclusions to trust, and how you made it hold a quality bar it has no way to judge for itself.
-
 Timebox: one weekend.
 
-Ask me questions. Which questions you ask, and which ones you decide you do not need to ask, is part of what I am reading.
+Ask me questions.

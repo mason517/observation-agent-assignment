@@ -41,14 +41,12 @@ One command, and the system:
 - The repo.
 - Your `.claude/` directory exactly as you used it. CLAUDE.md, subagents, skills, hooks, slash commands, settings, whatever you built.
 - `NOTES.md`, two pages at most. How you drove Claude Code. What you handed to subagents and why. How you budgeted their context. What you ran in parallel. Where Claude Code got it wrong and how you caught it before it reached the output. What you would build next with another week.
-- In those notes, tell me where your system is most likely to be wrong. What it probably missed, what it took on faith because you had no way to check it, and which of its conclusions you would not put your name on. I will read that section closely.
+- In those notes, tell me where your system is most likely to be wrong, and what it took on faith because you had no way to check it.
 - The output of one real run: the report, the dashboard, the run logs, and the drafted artifacts.
 
 ## How I read it
 
 The working code matters less than how you got it. Anyone can get a script out of Claude Code now. I am looking at the parts that do not come free: how you kept the system honest across a corpus it cannot hold in memory, how you decided which of its own conclusions to trust, and how you made it hold a quality bar it has no way to judge for itself.
-
-There is no interview after this and no call to walk me through it. What you send is what I read, so the submission has to explain itself without you in the room.
 
 Timebox: one weekend.
 

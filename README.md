@@ -44,6 +44,4 @@ One command, and the system:
 - In those notes, tell me where your system is most likely to be wrong, and what it took on faith because you had no way to check it.
 - The output of one real run: the report, the dashboard, the run logs, and the drafted artifacts.
 
-Timebox: one weekend.
-
-Ask me questions.
+Push all of it to your own repo and send me the link.
